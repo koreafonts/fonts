@@ -1,0 +1,5 @@
+Copyright (c) 2021, Kim Yangsu with Reserved Font Name "Monoplex" and "Monoplex KR" 
+ 
+The Monoplex generate script (<a href="https://github.com/y-kim/monoplex" target="_blank">https://github.com/y-kim/monoplex</a>) is licensed under the MIT License. 
+It is derived from the PlemolJP generate script (<a href="https://github.com/yuru7/PlemolJP" target="_blank">https://github.com/yuru7/PlemolJP</a>) which is licensed under the MIT License. 
+And Monoplex Font Software is licensed under the SIL Open Font License v1.1.
