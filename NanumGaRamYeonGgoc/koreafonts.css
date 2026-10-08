@@ -1,0 +1,9 @@
+/* Unmodified Fonts Archive files. Preserve the upstream README and license notices. */
+
+@font-face {
+  font-family: "NanumGaRamYeonGgoc";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumGaRamYeonGgoc.woff2") format("woff2");
+}
