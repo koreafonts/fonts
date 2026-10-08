@@ -1,0 +1,9 @@
+/* Unmodified Fonts Archive files. Preserve the upstream README and license notices. */
+
+@font-face {
+  font-family: "NanumNaNeunIGyeoNaenDa";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumNaNeunIGyeoNaenDa.woff2") format("woff2");
+}
