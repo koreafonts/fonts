@@ -1,0 +1,12 @@
+
+Copyright (c) 2023 Jang Haemin (<a href="https://jhaemin.com" target="_blank">jhaemin.com</a>) 
+ 
+This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+This license is copied below, and is also available with a FAQ at: 
+<a href="http://scripts.sil.org/OFL" target="_blank">http://scripts.sil.org/OFL</a>
+ 
+----------------------------------------------------------- 
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 
+----------------------------------------------------------- 
+ 
+<a href="https://github.com/jhaemin/Interop/blob/main/LICENSE" target="_blank">라이선스 전문 보기</a>
