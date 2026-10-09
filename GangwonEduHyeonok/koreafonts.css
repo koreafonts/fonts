@@ -1,0 +1,9 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "GangwonEdu Hyeonok";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./GangwonEduHyeonok.woff2") format("woff2");
+}
