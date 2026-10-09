@@ -1,0 +1,17 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "Hakgyoansim Byeolbichhaneul";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./HakgyoansimByeolbichhaneul-L.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Hakgyoansim Byeolbichhaneul";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./HakgyoansimByeolbichhaneul-B.woff2") format("woff2");
+}

@@ -1,0 +1,17 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "GangwonEdu Modu";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./GangwonEduModu-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GangwonEdu Modu";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./GangwonEduModu-Bold.woff2") format("woff2");
+}

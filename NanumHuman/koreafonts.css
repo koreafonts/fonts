@@ -1,0 +1,49 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanEL.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanLight.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanRegular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanEB.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "NanumHuman";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("./NanumHumanHeavy.woff2") format("woff2");
+}

@@ -1,0 +1,9 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "STUNNING";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./STUNNING.woff2") format("woff2");
+}

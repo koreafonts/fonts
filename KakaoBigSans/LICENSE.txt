@@ -1,0 +1,5 @@
+This software is licensed under the OFL-1.1 License.
+
+Copyright 2024 Kakao Corp. <a href="http://www.kakaocorp.com" target="_blank">http://www.kakaocorp.com</a>
+
+See OFL.txt for details.

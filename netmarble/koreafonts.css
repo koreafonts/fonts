@@ -1,0 +1,25 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "netmarble";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./netmarbleL.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "netmarble";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("./netmarbleM.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "netmarble";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./netmarbleB.woff2") format("woff2");
+}

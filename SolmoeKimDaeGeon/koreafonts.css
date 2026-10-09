@@ -1,0 +1,17 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "Solmoe KimDaeGeon";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./SolmoeKimDaeGeon-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Solmoe KimDaeGeon";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("./SolmoeKimDaeGeon-Medium.woff2") format("woff2");
+}
