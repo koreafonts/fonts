@@ -1,0 +1,17 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "Sejong Hospital";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./SejongHospital-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Sejong Hospital";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./SejongHospital-Bold.woff2") format("woff2");
+}
