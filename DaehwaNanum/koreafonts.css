@@ -1,0 +1,25 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "Daehwa Nanum";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("./DaehwaNanum-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Daehwa Nanum";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./DaehwaNanum-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Daehwa Nanum";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("./DaehwaNanum-Bold.woff2") format("woff2");
+}

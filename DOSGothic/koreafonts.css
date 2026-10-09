@@ -1,0 +1,9 @@
+/* KoreaFonts. Preserve the original copyright and license notices. */
+
+@font-face {
+  font-family: "DOSGothic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./DOSGothic.woff2") format("woff2");
+}
